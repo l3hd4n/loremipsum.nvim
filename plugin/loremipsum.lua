@@ -1,1 +1,1 @@
-print("lorem ipsum from plugin loremipsum folder")
+--print("lorem ipsum from plugin loremipsum folder")
